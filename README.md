@@ -1,5 +1,7 @@
 # pc-web-deploy
 
+Teste
+
 ## App in laravel 
 
 ## Como instalar o PHP
@@ -59,7 +61,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName [ip-da-sua-vm]
+    ServerName 54.234.195.221
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
