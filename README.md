@@ -61,7 +61,7 @@ sudo nano app.conf
 
 ```
 <VirtualHost *:80>
-    ServerName 54.234.195.221
+    ServerName 34.204.50.167
     DocumentRoot /var/www/html/public
 
     <Directory /var/www/html/public>
